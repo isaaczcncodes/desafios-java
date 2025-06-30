@@ -16,7 +16,7 @@ Desafios simples focados em lógica, strings e estrutura de repetição.
 
 | Desafio | Descrição |
 |--------|-----------|
-| [`Desafio01_ContadorDeAs`](desafios_java/iniciante/Desafio01_ContadorDeAs.java) | Conta quantas letras 'a' ou 'A' existem em uma palavra. |
+| [`Desafio01_ContadorDeAs`](iniciante/Desafio01_ContadorDeAs.java) | Conta quantas letras 'a' ou 'A' existem em uma palavra. |
 | [`Desafio02_LetraPorLinha`](desafios_java/iniciante/Desafio02_LetraPorLinha.java) | Mostra cada letra da palavra digitada em uma nova linha. |
 | [`Desafio03_VerificaVogais`](desafios_java/iniciante/Desafio03_VerificaVogais.java) | Verifica se uma palavra contém pelo menos uma vogal. |
 | [`Desafio04_Palindromo`](desafios_java/iniciante/Desafio04_Palindromo.java) | Verifica se a palavra é um palíndromo. |
