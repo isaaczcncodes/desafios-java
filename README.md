@@ -11,7 +11,7 @@ Os exercícios foram feitos para treinar, evoluir, e montar um portfólio sólid
 
 Os desafios estão organizados em duas pastas:
 
-## 🟢 `iniciante/`
+### 🟢 `iniciante/`
 Desafios simples focados em lógica, strings e estrutura de repetição.
 
 | Desafio | Descrição |
@@ -25,7 +25,7 @@ Desafios simples focados em lógica, strings e estrutura de repetição.
 | [`Desafio07_CalculadoraSimples`](iniciante/Desafio07_CalculadoraSimples.java) | Calculadora básica com as 4 operações. |
 | [`Desafio08_JogoAdivinhacao`](niciante/Desafio08_JogoAdivinhacao.java) | Gera um número aleatório e o usuário tenta adivinhar. |
 
-## 🟡 `intermediario/`
+### 🟡 `intermediario/`
 Desafios com lógica mais elaborada, menu interativo, manipulação de dados ou arquivos.
 
 | Desafio | Descrição |
