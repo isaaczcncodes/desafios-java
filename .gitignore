@@ -26,6 +26,8 @@ logs/
 # IntelliJ / Eclipse
 .idea/
 *.iml
+/out/
+out/
 
 # OS / Cache
 *.swp
