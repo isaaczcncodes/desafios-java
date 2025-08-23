@@ -17,5 +17,7 @@ public class Desafio04_Palindromo {
         else {
             System.out.println("Sua mensagem não é um palíndromo!");
         }
+        
+        scanner.close();
     }
 }

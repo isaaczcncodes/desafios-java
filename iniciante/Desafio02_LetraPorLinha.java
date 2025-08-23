@@ -13,5 +13,7 @@ public class Desafio02_LetraPorLinha {
             char letra = palavra.charAt(i);
             System.out.println(letra);
         }
+        
+        scanner.close();
     }
 }

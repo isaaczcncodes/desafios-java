@@ -23,5 +23,7 @@ public class Desafio03_VerificaVogais {
         else {
             System.out.println("Sua palavra não tem vogais.");
         }
+        
+        scanner.close();
     }
 }
