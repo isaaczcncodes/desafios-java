@@ -1,6 +1,6 @@
-# 💻 Desafios Java – Lógica, Mini Projetos e Prática de Back-End
+# 💻 Desafios Java – Lógica Simples e Prática de Back-End
 
-## Este repositório contém uma coleção de desafios e mini projetos em **Java**, voltados principalmente para quem está começando ou consolidando conhecimentos de lógica, estruturas de repetição, manipulação de strings e primeiros passos com back-end.  
+## Este repositório contém uma coleção de desafios sobre lógica computacional simples em **Java**, voltados principalmente para quem está começando ou consolidando conhecimentos de lógica, estruturas de repetição, manipulação de strings e primeiros passos com back-end.  
 
 Feito por **Isaac Ferreira**, estudante de Ensino Médio Técnico Integrado em Desenvolvimento de Sistemas 🚀  
 Os exercícios foram feitos para treinar, evoluir, e montar um portfólio sólido.  
