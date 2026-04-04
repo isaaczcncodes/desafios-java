@@ -9,7 +9,7 @@ Os exercícios foram feitos para treinar, evoluir, e montar um portfólio sólid
 
 ## 📁 Estrutura dos Desafios
 
-Os desafios estão organizados em apenas uma:
+Os desafios estão organizados em apenas uma pasta:
 
 ### 🟢 `desafios/`
 Desafios simples focados em lógica, strings e estrutura de repetição.
